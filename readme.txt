@@ -8,4 +8,3 @@ this is a change from dev！
 
 test is succeed from rollback!!!
 this is adds from dev branch!
-this is add action from github!!! 
